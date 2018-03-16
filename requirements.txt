@@ -1,3 +1,6 @@
 aiohttp
 jinja2
 aiomysql
+requests
+mysql-connector-python
+sqlalchemy
